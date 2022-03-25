@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6eb95105-1c09-412d-b893-6c80242b4f5b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/kopikrumble-landing-azure-deployed",
+    "appService.deploySubpath": "."
+}
